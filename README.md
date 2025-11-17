@@ -10,7 +10,7 @@ I specialize in econometrics and machine learning, focusing on customer behavior
 
 ## Skills & Technologies
 
-r,cpp,py,latex
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## My Projects
 

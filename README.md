@@ -14,13 +14,11 @@ I specialize in econometrics and machine learning, focusing on customer behavior
 
 ## My Projects
 
-- [HMM_FX](https://github.com/l-vice/hmm_fx): Hidden Markov Models (HMM) and Hidden Semi-Markov Models (HSMM) for FX regime detection. Identifies volatility states in EUR/USD and improves algorithmic mean-reversion performance through regime filtering. (Language: R)
-
-- [YT_Engagement_Prediction](https://github.com/l-vice/lr_yt_pred): Predictive modeling of YouTube like/view ratio using Orange3 and R. Combines data cleaning, feature engineering, and ML model evaluation (Random Forest, AdaBoost, XGBoost) for creator analytics. (Language: Python / R)
-
-- [Garment_Worker_Productivity](https://github.com/l-vice/garment_workers_productivity): Classification models (LDA, QDA, kNN, RDA, logistic regression) for labor productivity prediction in garment manufacturing. Includes visualization, validation, and model comparison. (Language: R)
-
-- [RegMod_Hurdle](https://github.com/l-vice/regmod_hurdle): Regression modeling with Hurdle and GAMLSS frameworks for zero-inflated data. Evaluates promotional, retail, and catalog effects across socioeconomic covariates. (Language: R)
+- [regmod_hurdle](https://github.com/l-vice/regmod_hurdle): Hurdle model built using GAMLSS to model customer purchasing behaviour. ★ 0
+- [hmm_fx](https://github.com/l-vice/hmm_fx): Implementation of Hidden Markov Models to identify latent regime shifts in FX markets. ★ 0
+- [lr_yt_pred](https://github.com/l-vice/lr_yt_pred): Predicted the like-to-view ratio of YouTube videos using R and Orange3. ★ 0
+- [garment_workers_productivity](https://github.com/l-vice/garment_workers_productivity): Modeling garment worker productivity using logistic and QDA models. ★ 0
+- [projects](https://github.com/l-vice/projects): Portfolio of quantitative analysis projects in econometrics and machine learning. ★ 0
 
 
 ## Recent Activity
